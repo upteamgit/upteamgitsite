@@ -1,0 +1,13 @@
+.aboutImage {
+    margin-top: 30px;
+    width: 400px;
+}
+
+.aboutContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+.aboutCard {
+    flex: 1;
+}
