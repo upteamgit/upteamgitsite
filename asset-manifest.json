@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/upteamgitsite/static/css/main.fc652b8f.css",
+    "main.css": "/upteamgitsite/static/css/main.35d1e078.css",
     "main.js": "/upteamgitsite/static/js/main.2386610f.js",
     "static/js/787.55db85eb.chunk.js": "/upteamgitsite/static/js/787.55db85eb.chunk.js",
     "static/media/ai.png": "/upteamgitsite/static/media/ai.aa60586ba1ba53762d94.png",
@@ -8,12 +8,12 @@
     "static/media/about.png": "/upteamgitsite/static/media/about.8b476853a1d428aea44e.png",
     "static/media/logo.svg": "/upteamgitsite/static/media/logo.bc2e343d08e5fb191aa2866d412f7f91.svg",
     "index.html": "/upteamgitsite/index.html",
-    "main.fc652b8f.css.map": "/upteamgitsite/static/css/main.fc652b8f.css.map",
+    "main.35d1e078.css.map": "/upteamgitsite/static/css/main.35d1e078.css.map",
     "main.2386610f.js.map": "/upteamgitsite/static/js/main.2386610f.js.map",
     "787.55db85eb.chunk.js.map": "/upteamgitsite/static/js/787.55db85eb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc652b8f.css",
+    "static/css/main.35d1e078.css",
     "static/js/main.2386610f.js"
   ]
 }
